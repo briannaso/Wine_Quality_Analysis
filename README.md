@@ -10,7 +10,7 @@ As a team, we were all interested in learning more about the attributes that det
 
 #### Description of the data source: 
 The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. It displays 11 different characteristics of the grape variety. 
-     <li> Source Data: https://archive.ics.uci.edu/ml/datasets/Wine+Quality </li>
+##### Source Data: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
      
 #### Questions to answer: 
   <ol>
