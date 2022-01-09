@@ -1,6 +1,6 @@
 # Technologies Used
 ## Data Cleaning and Analysis
-Pandas will be used to clean the data and perform analysis.
+Pandas will be used to clean the data and perform our wine analysis.
 
 ## Database Storage
 Postgres SQL is the database we selected to use to store the cleaned data.
