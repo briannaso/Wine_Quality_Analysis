@@ -15,7 +15,7 @@ The two datasets are related to red and white variants of the Portuguese "Vinho 
 #### Questions to answer: 
   <ol>
   <li> What are the top five high quality wines? </li>
-  <li> What are the bottom five lowest qaulity wines? </li>
+  <li> What are the bottom five lowest quality wines? </li>
   </ol>
   
 ### Machine Learning Model: 
