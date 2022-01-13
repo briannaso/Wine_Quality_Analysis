@@ -16,7 +16,8 @@ The two datasets are related to red and white variants of the Portuguese "Vinho 
   <ol>
   <li> What are the top five high quality wines? </li>
   <li> What are the bottom five lowest quality wines? </li>
-  </ol>
+  <li> Which chemical properties have the most impact on the quality score of wine? </li>    
+</ol>
   
 ### Machine Learning Model: 
 Using a supervised learning model, the independent variable (x) would be:
