@@ -36,7 +36,10 @@ Using a supervised learning model, the independent variable (x) would be:
 The dependent variable (y) is 12 - quality (score between 0 and 10). Using sklearn we will split the testing and training data. We will use the training data to train the model and then use the testing data to see the results using the predict method. Then we will compare the testing and training outcomes to see if the model can accurately predict the wine quality score.
 
 ### Technologies Used:
-Database Storage: Postgres SQL
+*Data Cleaning and Analysis*: Pandas
+*Database Storage*: Postgres SQL
+*Machine Learning*: SciKit Learn is the machine learning library for python
+*Dashboard*: Tableau
 
 
 ### Results:
