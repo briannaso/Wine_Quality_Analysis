@@ -33,7 +33,7 @@ CREATE TABLE wine_white (
 SELECT * FROM wine_white;
 
 CREATE TABLE wine_full (
-	fixed_acidity NUMERIC,
+	fixed_acidity INT,
 	volatile_acidity NUMERIC,
 	citric_acid NUMERIC,
 	residual_sugar NUMERIC,
