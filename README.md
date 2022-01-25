@@ -49,14 +49,11 @@ The dependent variable (y) is 12 - quality (score between 0 and 10). Using sklea
           We have selected Tableau to build the dashboard to present our results.
 </ol>
 
-### Results:
-
-
-
 ### Analysis: 
+The result of our analysis based off the logistic regression model provided us with outcomes of quality scores. Our model prediction accuracy came out to be 0.54, which was a bit lower than what we expected. However, based on this accuracy score we can assume that the features within the dataset do not contribute greatly to the quality of wine. 
 
+### Recommendation for Future Analysis:
+Using SciKit Learns RandomForestRegressor as another model to potentially get a better accuracy score.
 
-
-### Summary:
 
 
